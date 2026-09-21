@@ -1,2 +1,2 @@
 # ESP
-Código da atividade LED_TASK, proposta pelo Marcio
+Repositório destinado a códigos em C, para esp
